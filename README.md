@@ -1,5 +1,14 @@
 # IPod Shuffle 4g Script
 
+Fork of https://github.com/nims11/IPod-Shuffle-4g
+See branches (from open pull requests https://github.com/nims11/IPod-Shuffle-4g/pulls):
+
+  * https://github.com/clach04/IPod-Shuffle-4g/tree/reuse-voiceover_fracai
+  * https://github.com/clach04/IPod-Shuffle-4g/tree/podcast_support_fracai
+  * https://github.com/clach04/IPod-Shuffle-4g/tree/gtts-cli_GijsTimmers
+  * https://github.com/clach04/IPod-Shuffle-4g/tree/pyqt4_ui_siddhartpai
+
+
 ## ipod-shuffle-4g.py
 
 Python script for building the Track and Playlist database for the newer gen IPod Shuffle.
