@@ -1,6 +1,6 @@
-# IPod Shuffle 4g Script
+# iPod Shuffle 4g Script
 
-Fork of https://github.com/nims11/IPod-Shuffle-4g
+Fork of https://github.com/nims11/IPod-Shuffle-4g fornuse with Apple iPod Shuffle generation 4 (and probably 3). fir shuffle 1 amd 2 see/use https://shuffle-db.sourceforge.net/ instead.
 See branches (from open pull requests https://github.com/nims11/IPod-Shuffle-4g/pulls):
 
   * https://github.com/clach04/IPod-Shuffle-4g/tree/reuse-voiceover_fracai
